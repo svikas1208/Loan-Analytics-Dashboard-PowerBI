@@ -46,11 +46,11 @@ Loan-Analytics-Dashboard-PowerBI
 └── README.md # Documentation
 
 ##  Dashboard Preview
-    <img width="1028" height="583" alt="Screenshot 2025-09-17 143307" src="https://github.com/user-attachments/assets/b5213c07-8115-4af7-8f0e-0efccbdcd31e" />
-    <img width="1034" height="573" alt="Screenshot 2025-09-17 143401" src="https://github.com/user-attachments/assets/8c27a428-04ad-408f-8b5a-fe41c5fd81cb" />
-    <img width="1019" height="579" alt="Screenshot 2025-09-17 143607" src="https://github.com/user-attachments/assets/03f5ee51-1669-4d82-8a44-f5d4372ce767" />
-    <img width="1021" height="575" alt="Screenshot 2025-09-17 143626" src="https://github.com/user-attachments/assets/a95842b7-4155-4883-adaa-b52db3693604" />
-    <img width="1035" height="738" alt="Screenshot 2025-09-17 143704" src="https://github.com/user-attachments/assets/083ed9de-922c-40da-8664-512378b53a60" />
+<img width="1028" height="583" alt="Screenshot 2025-09-17 143307" src="https://github.com/user-attachments/assets/b5213c07-8115-4af7-8f0e-0efccbdcd31e" />
+<img width="1034" height="573" alt="Screenshot 2025-09-17 143401" src="https://github.com/user-attachments/assets/8c27a428-04ad-408f-8b5a-fe41c5fd81cb" />
+<img width="1019" height="579" alt="Screenshot 2025-09-17 143607" src="https://github.com/user-attachments/assets/03f5ee51-1669-4d82-8a44-f5d4372ce767" />
+<img width="1021" height="575" alt="Screenshot 2025-09-17 143626" src="https://github.com/user-attachments/assets/a95842b7-4155-4883-adaa-b52db3693604" />
+<img width="1035" height="738" alt="Screenshot 2025-09-17 143704" src="https://github.com/user-attachments/assets/083ed9de-922c-40da-8664-512378b53a60" />
 ##  How to Use
 
 1. Clone or download this repository  
